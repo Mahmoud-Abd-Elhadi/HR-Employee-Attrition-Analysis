@@ -44,4 +44,3 @@ The SQL Views answer the following questions:
   </a>
   &nbsp; &nbsp;
   
-*Created by [Mahmoud Abd Elhadi]*
