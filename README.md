@@ -26,7 +26,7 @@ The SQL Views answer the following questions:
 - Are senior employees more likely to leave than juniors?
 
 ## 📸 Data Model (Star Schema)
-*(Upload your diagram image here lat)*
+*(https://github.com/Mahmoud-Abd-Elhadi/HR-Employee-Attrition-Analysis/blob/main/Image/Database%20Diagram.png)*
 
 ---
 *Created by [Mahmoud Abd Elhadi]*
