@@ -29,4 +29,19 @@ The SQL Views answer the following questions:
 *<img width="1774" height="1112" alt="Database Diagram" src="https://github.com/user-attachments/assets/b0506a3b-e1b9-44ab-8034-b4c8a6340c61" />*
 
 ---
+## 👤 Author
+**[Mahmoud Abd Elhadi]**
+*Data Analyst*
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mahmoud-abd-elhadi/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/>
+  </a>
+  &nbsp; &nbsp;
+  
+  <a href="https://github.com/Mahmoud-Abd-Elhadi" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="40"/>
+  </a>
+  &nbsp; &nbsp;
+  
 *Created by [Mahmoud Abd Elhadi]*
