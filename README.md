@@ -5,6 +5,7 @@ After building the Data Warehouse and creating the ETL pipeline, I developed an 
 
 👉 **[Click here to view the Live Dashboard on NovyPro](https://www.novypro.com/profile_projects/mahmoudabdalhadi?Popup=memberProject&Data=1776615870565x853869002413864700)**
 
+![Dashboard Preview](./Image/HR_Dashboard.png)
 ---
 
 ## 📌 Project Overview
