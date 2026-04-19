@@ -1,5 +1,12 @@
 # 📊 HR Analytics Data Warehouse (SQL Server)
 
+## 📊 Live Interactive Dashboard
+After building the Data Warehouse and creating the ETL pipeline, I developed an interactive dashboard to visualize the insights. 
+
+👉 **[Click here to view the Live Dashboard on NovyPro](https://www.novypro.com/create_project/hr-analytics-dashboard-518)**
+
+---
+
 ## 📌 Project Overview
 This project involves building a complete **Data Warehouse (DWH)** for an HR department to analyze employee attrition behavior. The goal is to transform raw data into a structured **Star Schema** to answer key business questions regarding employee retention, training impact, and company demographics.
 
